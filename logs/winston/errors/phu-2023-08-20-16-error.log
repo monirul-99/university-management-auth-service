@@ -1,0 +1,12 @@
+{
+  message: 'Unhandled Rejection is detected, we are closing our server.....',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-20T10:48:53.995Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-20T10:52:42.716Z'
+}

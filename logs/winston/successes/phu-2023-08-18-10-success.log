@@ -1,0 +1,186 @@
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:00:19.567Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:00:19.570Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:02:01.238Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:02:01.245Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:03:24.333Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:03:24.343Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:03:33.909Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:03:33.911Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:12.496Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:12.504Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:26.382Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:26.385Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:56.875Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:14:56.878Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:15:07.802Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:15:07.806Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:15:09.271Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:15:09.274Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:07.521Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:07.529Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:20.428Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:20.440Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:29.283Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:16:29.287Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:43:01.193Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:43:01.201Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:47:19.706Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:47:19.709Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:53:32.042Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:53:32.045Z'
+}
+{
+  message: 'SIGTERN is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T04:54:37.971Z'
+}

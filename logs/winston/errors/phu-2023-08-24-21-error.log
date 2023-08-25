@@ -1,0 +1,30 @@
+{
+  message: 'Unhandled Rejection is detected, we are closing our server.....',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-24T15:45:00.065Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-24T15:46:43.923Z'
+}
+{
+  message: 'Unhandled Rejection is detected, we are closing our server.....',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-24T15:56:09.490Z'
+}
+{
+  message: 'Unhandled Rejection is detected, we are closing our server.....',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-24T15:56:58.845Z'
+}
+{
+  message: 'Unhandled Rejection is detected, we are closing our server.....',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-08-24T15:58:34.573Z'
+}

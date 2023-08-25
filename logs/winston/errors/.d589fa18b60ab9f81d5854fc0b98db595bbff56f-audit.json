@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/.d589fa18b60ab9f81d5854fc0b98db595bbff56f-audit.json",
+    "files": [
+        {
+            "date": 1692285578540,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-17-21-error.log",
+            "hash": "0f94ab4807e49da363e1fce8efa4fd21d9d01e1116a436f2b586b62f117f3689"
+        },
+        {
+            "date": 1692288083481,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-17-22-error.log",
+            "hash": "1646f18fcb11c5d0c82675293689b231f1a74954959fee105859f472358b02e8"
+        },
+        {
+            "date": 1692293357671,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-17-23-error.log",
+            "hash": "7298a8c706e8bdd9389af5fc9eb559ca2281adfaf04a9ea401346d8357e5e558"
+        },
+        {
+            "date": 1692327070831,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-08-error.log",
+            "hash": "19e103f0385f681a28e13674bb0041c70806c6a077d84e1c975af351ef6418c5"
+        },
+        {
+            "date": 1692327744765,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-09-error.log",
+            "hash": "ef5ee5978829653a8da6f9f68fd1d50c78150fa9f85ad99ab81d14d378a4d03a"
+        },
+        {
+            "date": 1692331217461,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-10-error.log",
+            "hash": "5f89c994021c285b733c07b91a9644b2fb0c0ba462824c894f1821daba9e454f"
+        },
+        {
+            "date": 1692336541285,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-11-error.log",
+            "hash": "d111151fffb66eaafcec63d958d58690f86c16ebb788cbf57eecdcd6ed21afe8"
+        },
+        {
+            "date": 1692351152420,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-15-error.log",
+            "hash": "a34df01aa5d5d2d8aa41f7e1c1e8aee54644c5e52638146f8126392addb502db"
+        },
+        {
+            "date": 1692354588811,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-16-error.log",
+            "hash": "c3db4d4c960591b7f08d149b1005c3ac26e62a90133a65a5fd00027eef649f5c"
+        },
+        {
+            "date": 1692371446580,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-21-error.log",
+            "hash": "fd6317f41335098688ce2f3c952104a6047a5431d07f4d0243d8247c27e87239"
+        },
+        {
+            "date": 1692376358145,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-18-22-error.log",
+            "hash": "4fc22c88a163b95775aef30ab1698a20411a4432403e0e33e560d56172256fec"
+        },
+        {
+            "date": 1692445323237,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-19-17-error.log",
+            "hash": "923479a574b76679f70a255a3d096fac3c5c71c163b52c04843c2d2220193676"
+        },
+        {
+            "date": 1692446878744,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-19-18-error.log",
+            "hash": "e2ddb719d908f7e2f860cce50a496498eb61d0aadd4f0e28c40bbb5ba7178116"
+        },
+        {
+            "date": 1692528329627,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-20-16-error.log",
+            "hash": "9d0c76006aad2abb2a5b77f00f8f5e8c348538f4a2098f9f5077de0e039e2de3"
+        },
+        {
+            "date": 1692878921061,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-24-18-error.log",
+            "hash": "ba147d2f561273b81a57e5255c011b09ccd8d511d81236b058a38855bc8763ee"
+        },
+        {
+            "date": 1692882467511,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-24-19-error.log",
+            "hash": "f47a65b8640adfd25c6255442f2f9893589eb5955def5645ee9bed368f6fb6e3"
+        },
+        {
+            "date": 1692886992583,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-24-20-error.log",
+            "hash": "fd92c4c2668e9e7f4e731a708bf4699412456f8362109959a00d26e2a3fa51e6"
+        },
+        {
+            "date": 1692891872198,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-24-21-error.log",
+            "hash": "e0b8d3fc629597816b2d2cd0b416d11dba820ce9d6703e75ef0d88b0c83293ab"
+        },
+        {
+            "date": 1692892931438,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-24-22-error.log",
+            "hash": "379f034fbbfb2eed26a97d0b50c0e2ddc581b8925d9b05755b71d99ca78c17cd"
+        },
+        {
+            "date": 1692932922073,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-25-09-error.log",
+            "hash": "507fd8280cabec9e197baa0a579ed33ea5870a66c8cc6ba3a2ab85d1f8c01608"
+        },
+        {
+            "date": 1692936868842,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-25-10-error.log",
+            "hash": "64a30302e0d141ba1507ebbc9f64590ca961d0252e8b624ba9d1a24ec1ef8380"
+        },
+        {
+            "date": 1692939963130,
+            "name": "/Users/monirulislam/Movies/Next Level Developer/university-management-service/logs/winston/errors/phu-2023-08-25-11-error.log",
+            "hash": "da12566e3664dc184e19ecc6d928fee8d8c2c8b44b7fbca2e49046efe6fd7182"
+        }
+    ],
+    "hashType": "sha256"
+}

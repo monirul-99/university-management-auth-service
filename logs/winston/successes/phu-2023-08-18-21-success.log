@@ -1,0 +1,60 @@
+{
+  message: 'SIGTERN is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:03:41.171Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:10:49.349Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:10:49.359Z'
+}
+{
+  message: 'SIGTERN is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:32:32.598Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:34:12.957Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:34:12.960Z'
+}
+{
+  message: 'SIGTERN is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:45:47.875Z'
+}
+{
+  message: 'Database Connected Okay',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:46:31.156Z'
+}
+{
+  message: 'Application listening on port 5500',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:46:31.162Z'
+}
+{
+  message: 'SIGTERN is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-08-18T15:49:19.615Z'
+}
